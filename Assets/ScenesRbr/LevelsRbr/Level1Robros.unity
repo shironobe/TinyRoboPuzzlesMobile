@@ -368,10 +368,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 8291188696729529817, guid: 848cbea5bf042d14f804c573f94ef400, type: 3}
-      propertyPath: playerPos.Array.size
-      value: 100
-      objectReference: {fileID: 0}
     - target: {fileID: 8291188696729529819, guid: 848cbea5bf042d14f804c573f94ef400, type: 3}
       propertyPath: m_RootOrder
       value: 1
