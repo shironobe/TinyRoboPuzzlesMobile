@@ -1,0 +1,85 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Pushable
+  - Robo1
+  - Robo2
+  - Robo3
+  - sl1
+  - sl2
+  - PushableWoodBlock
+  - Hole
+  - FadePanel
+  - RedBlock
+  - Rocks
+  - GreenBot
+  - Land
+  - EnergyLeft
+  - Robo
+  - Bat
+  - FinishSign
+  - PoleRobo2
+  - Battery
+  - Invoker
+  - PoleRobo1
+  - ButtonTrap
+  - Ban
+  - Spikes
+  - BanGate
+  - Outerwall
+  - Ground
+  - BlueGate
+  - BulletBlock
+  - walls
+  - BombBot
+  - Spike
+  - Selected1
+  - Selected2
+  - LevelButton
+  - PausePanel
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Block1
+  - Block2
+  - Block3
+  - Block4
+  - Robo2
+  - Robo1Block
+  - Background
+  - Walls
+  - Robo3
+  - ExitDoor
+  - MagnetBlock1
+  - WoodBlock1
+  - Hole
+  - Block5
+  - WoodBlock2
+  - WoodBlock3
+  - WoodBlock4
+  - MagnetBlock2
+  - MagnetBlock3
+  - MagnetBlock4
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Map
+    uniqueID: 4046002615
+    locked: 0
+  - name: WoodBlock
+    uniqueID: 2595889587
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
